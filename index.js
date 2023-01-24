@@ -1,6 +1,6 @@
 const sessionName = "yusril";
-const donet = "https://saweria.co/sansekai";
-const owner = ["6287878817169"];
+const donet = "https://saweria.co/nadcoffeeand";
+const owner = ["6283131688812"];
 const {
   default: sansekaiConnect,
   useSingleFileAuthState,
