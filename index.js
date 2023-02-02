@@ -1,3 +1,4 @@
+const { keep_alive } = require("./keep_alive");
 const sessionName = "ChatGPT";
 const donet = "https://saweria.co/nadcoffeeand";
 const owner = ["6283131688812"];
