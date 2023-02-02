@@ -1,5 +1,5 @@
-const { keep_alive } = require("./keep_alive");
-const sessionName = "ChatGPT";
+
+const sessionName = "yusril";
 const donet = "https://saweria.co/nadcoffeeand";
 const owner = ["6283131688812"];
 const {
